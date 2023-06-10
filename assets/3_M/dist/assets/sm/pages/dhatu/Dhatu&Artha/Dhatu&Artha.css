@@ -1,0 +1,68 @@
+h1 {text-align: center;}
+h1 {color:rgb(255, 175, 47);}
+
+h2 {color: rgb(179, 0, 255);}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+td {text-align: center;
+    background-color: rgb(255, 255, 175);
+}
+
+th {text-align: center;
+    background-color: rgb(204, 102, 255);
+    border-radius: 6px;
+}
+
+.button2 {
+    background-color: orange;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 15px;
+    border: 100px;
+    margin: 14px 12px;
+    margin-left: 70%;
+    cursor: pointer;
+  }
+
+#btn{background-color: rgb(146, 30, 255);
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    border: 0px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.center {
+    height: 45px;
+    margin-top: 12px;
+    width: 260px;
+    border-radius: 5px;
+  
+  }
+
+.caption {
+    display: block;
+    width: 100%;
+    background: #7851a9;
+    height: 70px;
+    padding-left: 10px;
+    color: #fff;
+    font-size: 35px;
+    line-height: 55px;
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    text-align: center;
+  } 
+  
+
+
